@@ -4,6 +4,12 @@
 ## Contents
 - [Developer Guides](developer-guides)
 
+## Official Ecosystem
+- [Official Website](https://contao.org) - The offficial website with news, downloads, introductions, partner programm and many more.
+- [Documentation](https://docs.contao.org/) - The documentaion is the right place for developers.
+- [Contao Association](https://association.contao.org) - The Contao Association is the official organization behind the Contao CMS.
+- [German Community Board](https://community.contao.org) - If you neeed support in german located speech, help or you like to help other people to solve problems, this is the right place for you.
+- [International Community Board](https://community.contao.org/en/) - Share, tell or discuss in english language about contao.
 ## Developer Resources
 - [Contao Cookbook](https://docs.contao.org/books/cookbook/) - The contao cookbook contains a lot of helpful recipes for developers to resolve common issues.
 

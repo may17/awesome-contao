@@ -2,7 +2,9 @@
 > A helpful list of awesome things related to the Contao CMS
 
 ## Contents
-- [Developer Guides](developer-guides)
+- [Official Ecosystem](official-ecosystem)
+- [Developer Resources](developer-guides)
+- [Events](events)
 
 ## Official Ecosystem
 - [Official Website](https://contao.org) - The offficial website with news, downloads, introductions, partner programm and many more.
@@ -12,6 +14,7 @@
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
 ## Developer Resources
 - [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Contains a lot of helpful recipes for developers to resolve common issues.
+- [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles
 
 ## Events
 - [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.

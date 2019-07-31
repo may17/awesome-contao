@@ -3,7 +3,7 @@
 
 ## Contents
 - [Official Ecosystem](#official-ecosystem)
-- [Developer Resources](#developer-guides)
+- [Developer Resources](#developer-resources)
 - [Events](#events)
 - [Videos](#videos)
 - [Blogs](#blogs)

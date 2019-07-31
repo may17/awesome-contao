@@ -7,7 +7,7 @@
 - [Events](#events)
 - [Videos](#videos)
 - [Blogs](#blogs)
-- [Theme Stores](theme-stores)
+- [Theme Stores](#theme-stores)
 
 ## Official Ecosystem
 - [Contao Website](https://contao.org) - The offficial website with news, downloads, introductions, partner programm and many more.

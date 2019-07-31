@@ -5,14 +5,18 @@
 - [Official Ecosystem](#official-ecosystem)
 - [Developer Resources](#developer-guides)
 - [Events](#events)
-- [Blogs](#Blogs)
+- [Videos](#videos)
+- [Blogs](#blogs)
+- [Theme Stores](theme-stores)
 
 ## Official Ecosystem
-- [Official Website](https://contao.org) - The offficial website with news, downloads, introductions, partner programm and many more.
+- [Contao Website](https://contao.org) - The offficial website with news, downloads, introductions, partner programm and many more.
 - [Documentation](https://docs.contao.org/) - The documentaion is the right place for developers.
 - [Contao Association](https://association.contao.org) - The Contao Association is the official organization behind the Contao CMS.
 - [German Community Board](https://community.contao.org) - German located board to get help and discuss.
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
+- [Theme Store](https://themes.contao.org/de/) - the official Contao Cms theme store.
+
 
 ## Developer Resources
 - [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Contains a lot of helpful recipes for developers to resolve common issues.
@@ -61,6 +65,16 @@
 - https://www.premium-contao-themes.com/news.html
 - https://blog.calm-n-easy.de/archiv/tag/contao
 - https://brkwsky.de/blog.html
+
+## Theme Stores
+
+- [Theme Store](https://themes.contao.org/de/) - the official Contao Cms theme store.
+- [Premium Contao Themes](https://www.premium-contao-themes.com/)
+- [Rocksolid Themes](https://rocksolidthemes.com/de/contao/themes)
+- [Contao Themes Store](https://www.contao-themes-shop.de/)
+- [Contao best themes](http://contaobestthemes.silbersaiten.de/35-contao-themes)
+- [Contao Theme](https://www.contao-theme.de/)
+- [Erdmann und Freunde](https://erdmann-freunde.de/produkte/contao-themes/)
 
 ## License
 

@@ -2,9 +2,9 @@
 > A helpful list of awesome things related to the Contao CMS
 
 ## Contents
-- [Official Ecosystem](official-ecosystem)
-- [Developer Resources](developer-guides)
-- [Events](events)
+- [Official Ecosystem](#official-ecosystem)
+- [Developer Resources](#developer-guides)
+- [Events](#events)
 
 ## Official Ecosystem
 - [Official Website](https://contao.org) - The offficial website with news, downloads, introductions, partner programm and many more.

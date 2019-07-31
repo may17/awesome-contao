@@ -60,6 +60,7 @@
 ## Extensions
 Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.
 
+- [BackupDB](https://github.com/do-while/contao-BackupDB) - Backup of the Contao database, automatic backup, creation of website template for the install tool.
 - [MetaModels](https://now.metamodel.me) - Build your own data models with ease.
 - [Isotope](https://isotopeecommerce.org/en/) - eCommerce extension to build online shops.
 - [Notification Center](https://github.com/terminal42/contao-notification_center) - central and flexible way to send notifications via your own extensions.

@@ -4,10 +4,11 @@
 ## Contents
 - [Official Ecosystem](#official-ecosystem)
 - [Developer Resources](#developer-resources)
+  - [How To`s](#how-tos)
+  - [Videos](#videos)
+  - [Blogs](#blogs)
 - [Extensions](#extensions)
 - [Events](#events)
-- [Videos](#videos)
-- [Blogs](#blogs)
 - [Theme Stores](#theme-stores)
 
 ## Official Ecosystem
@@ -20,9 +21,41 @@
 
 
 ## Developer Resources
+
+### How To`s
 - [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Contains a lot of helpful recipes for developers to resolve common issues.
 - [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
 - [Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
+
+### Videos
+
+- [Contao Academy](https://contao-academy.de/) - Unofficial commercial service with high quality learn videos.
+- [Contao Conference 2018 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8G-eIo3UblM-P606BFlHxUr)
+- [Contao Nordtag 2018 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8HDJlPCvlcFaFJTkjQtxbGd)
+- [Contao Conference 2017 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8FcZogc52-XTLc3GQjDLUMH)
+- [Contao Nordtag 2017 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8E2yFyuchZLQwi8eajDJE7c)
+- [Contao Conference 2016 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8HRv6_zFjg3KduaCdoS7O-j)
+- [Contao Conference 2015](https://www.youtube.com/playlist?list=PLJlEgN85jW8HMj4g3TzlBdVddBTZC7KRv)
+- [Contao Conference 2014](https://www.youtube.com/playlist?list=PLJlEgN85jW8F2lyGzXNHFbBi9ASR204vP)
+- [Contao Conference 2013](https://www.youtube.com/playlist?list=PLJlEgN85jW8H1go8hJz8OskiibS0i5gsq)
+- [Contao Tutorials from Frank Hoppe](https://www.youtube.com/playlist?list=PLqMzgAZ1UyOZ3P2h9brSk91KxTAdCR90L)
+
+### Blogs
+- https://www.contao-fuer-webdesigner.de/blog.html
+- https://rocksolidthemes.com/de/contao/blog/
+- https://www.fast-end-media.de/blog/
+- https://kikmedia.de/de/blog.html
+- https://erdmann-freunde.de/logbuch-uebersicht/
+- https://contao-academy.de/contao-blog/cat/Contao+3
+- https://easysolutionsit.de/blog.html
+- https://contao.ninja/
+- https://kirsten-roschanski.de/blog
+- https://www.contao-bayern.de/blog.html
+- https://www.pergamon-interactive.de/blog.html
+- https://www.marcosimbuerger.ch/contao-kurzanleitungen.html
+- https://www.premium-contao-themes.com/news.html
+- https://blog.calm-n-easy.de/archiv/tag/contao
+- https://brkwsky.de/blog.html
 
 ## Extensions
 Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.
@@ -43,36 +76,6 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Contao Community Alliance](https://c-c-a.org/) - Independent inofficial organization that supports the Contao CMS.
 - [Contao Pool](https://contao-pool.de) - network of people located in the german state Nordrhein Westphalen.
 - [Contao Bayern](https://www.contao-bayern.de/) - network of people located in Munich, Germany.
-
-## Videos
-
-- [Contao Academy](https://contao-academy.de/) - Unofficial commercial service with high quality learn videos.
-- [Contao Conference 2018 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8G-eIo3UblM-P606BFlHxUr)
-- [Contao Nordtag 2018 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8HDJlPCvlcFaFJTkjQtxbGd)
-- [Contao Conference 2017 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8FcZogc52-XTLc3GQjDLUMH)
-- [Contao Nordtag 2017 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8E2yFyuchZLQwi8eajDJE7c)
-- [Contao Conference 2016 Playlist](https://www.youtube.com/playlist?list=PLJlEgN85jW8HRv6_zFjg3KduaCdoS7O-j)
-- [Contao Conference 2015](https://www.youtube.com/playlist?list=PLJlEgN85jW8HMj4g3TzlBdVddBTZC7KRv)
-- [Contao Conference 2014](https://www.youtube.com/playlist?list=PLJlEgN85jW8F2lyGzXNHFbBi9ASR204vP)
-- [Contao Conference 2013](https://www.youtube.com/playlist?list=PLJlEgN85jW8H1go8hJz8OskiibS0i5gsq)
-- [Contao Tutorials from Frank Hoppe](https://www.youtube.com/playlist?list=PLqMzgAZ1UyOZ3P2h9brSk91KxTAdCR90L)
-
-## Blogs
-- https://www.contao-fuer-webdesigner.de/blog.html
-- https://rocksolidthemes.com/de/contao/blog/
-- https://www.fast-end-media.de/blog/
-- https://kikmedia.de/de/blog.html
-- https://erdmann-freunde.de/logbuch-uebersicht/
-- https://contao-academy.de/contao-blog/cat/Contao+3
-- https://easysolutionsit.de/blog.html
-- https://contao.ninja/
-- https://kirsten-roschanski.de/blog
-- https://www.contao-bayern.de/blog.html
-- https://www.pergamon-interactive.de/blog.html
-- https://www.marcosimbuerger.ch/contao-kurzanleitungen.html
-- https://www.premium-contao-themes.com/news.html
-- https://blog.calm-n-easy.de/archiv/tag/contao
-- https://brkwsky.de/blog.html
 
 ## Theme Stores
 

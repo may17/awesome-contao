@@ -4,6 +4,7 @@
 ## Contents
 - [Official Ecosystem](#official-ecosystem)
 - [Developer Resources](#developer-resources)
+- [Extensions](#extensions)
 - [Events](#events)
 - [Videos](#videos)
 - [Blogs](#blogs)
@@ -22,6 +23,13 @@
 - [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Contains a lot of helpful recipes for developers to resolve common issues.
 - [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
 - [Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
+
+## Extensions
+Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.
+
+- [MetaModels](https://now.metamodel.me) - Build your own data models with ease.
+- [Isotope](https://isotopeecommerce.org/en/) - eCommerce extension to build online shops.
+- [Notification Center](https://github.com/terminal42/contao-notification_center) - central and flexible way to send notifications via your own extensions.
 
 ## Events
 - [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.

@@ -1,5 +1,5 @@
 # awesome-contao [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A helpful list of awesome things related to the Contao CMS
+> A helpful list of awesome things related to the Contao Open Source CMS
 
 ## Contents
 - [Official Ecosystem](#official-ecosystem)
@@ -12,12 +12,12 @@
 - [Theme Stores](#theme-stores)
 
 ## Official Ecosystem
-- [Contao Website](https://contao.org) - The official website with news, downloads, introductions, partner programm and many more.
+- [Contao Website](https://contao.org) - The official website with news, downloads, introductions, partner program and many more.
 - [Documentation](https://docs.contao.org/) - The documentation is the right place for developers.
 - [Contao Association](https://association.contao.org) - The Contao Association is the official organization behind the Contao CMS.
-- [German Community Board](https://community.contao.org) - German located board to get help and discuss.
+- [German Community Board](https://community.contao.org/de/) - German located board to get help and discuss.
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
-- [Theme Store](https://themes.contao.org/de/) - the official Contao CMS theme store.
+- [Theme Store](https://themes.contao.org/de/) - The official Contao CMS theme store.
 
 
 ## Developer Resources
@@ -60,28 +60,28 @@
 ## Extensions
 Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.
 
-- [BackupDB](https://github.com/do-while/contao-BackupDB) - Backup of the Contao database, automatic backup, creation of website template for the install tool.
-- [MetaModels](https://now.metamodel.me) - Build your own data models with ease ([What can you do.](http://www.e-spin.de/metamodels-vortrag-contao-konferenz-2017.html), [Videos](https://metamodels.readthedocs.io/de/latest/cookbook/other-tutorials/videos.html), [Manual](https://metamodels.readthedocs.io)).
+- [BackupDB](https://github.com/do-while/contao-BackupDB) - Backup of the Contao database, automatic backup, creation of website template for the Contao install tool.
+- [MetaModels](https://now.metamodel.me) - Build your own data models with ease ([What can you do](http://www.e-spin.de/metamodels-vortrag-contao-konferenz-2017.html), [Videos](https://metamodels.readthedocs.io/de/latest/cookbook/other-tutorials/videos.html), [Manual](https://metamodels.readthedocs.io)).
 - [Isotope](https://isotopeecommerce.org/en/) - eCommerce extension to build online shops.
-- [Notification Center](https://github.com/terminal42/contao-notification_center) - central and flexible way to send notifications via your own extensions.
+- [Notification Center](https://github.com/terminal42/contao-notification_center) - Central and flexible way to send notifications via your own extensions.
 
 ## Events
 - [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.
 - [Contao Camp (powered by Contao Association)](https://contao.camp/) - Yearly repeating barcamp event driven by the event participants.
-- [Contao Nordtag (powered by Contao Association)](http://contao-nordtag.de/) - Official regional event in Hamburg Germany.
-- [Contao Agenturtag](https://www.contao-agenturtag.de) - Inofficial event for freelancers and agency organized by trilobit GmbH and Thomas Weitzel.
-- [Contao NRW Day](https://nrw-day.de/) - First inoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany.
-- [Contao Austria Day](http://www.contao-austriaday.at/) - Inofficial community driven event by the austrian Contao community.
+- [Contao Nordtag (powered by Contao Association)](http://contao-nordtag.de/) - Official regional event in Hamburg, Germany.
+- [Contao Agenturtag](https://www.contao-agenturtag.de) - Unofficial event for freelancers and web agencies organized by trilobit GmbH and Thomas Weitzel.
+- [Contao NRW Day](https://nrw-day.de/) - First unoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany.
+- [Contao Austria Day](http://www.contao-austriaday.at/) - Unofficial community driven event by the Austrian Contao community.
 
 ## Community Organizations & Groups
-- [Contao Community Alliance](https://c-c-a.org/) - Independent inofficial organization that supports the Contao CMS.
-- [Contao Pool](https://contao-pool.de) - network of people located in the german state Nordrhein Westphalen.
-- [Contao Bayern](https://www.contao-bayern.de/) - network of people located in Munich, Germany.
-- [Contao Berlin](https://www.contao-berlin.de/) - network of people located in Berlin, Germany.
+- [Contao Community Alliance](https://c-c-a.org/) - Independent unofficial organization that supports the Contao CMS.
+- [Contao Pool](https://contao-pool.de) - Network of people located in Nordrhein Westphalen, Germany.
+- [Contao Bayern](https://www.contao-bayern.de/) - Network of people located in Munich, Germany.
+- [Contao Berlin](https://www.contao-berlin.de/) - Network of people located in Berlin, Germany.
 
 ## Theme Stores
 
-- [Theme Store](https://themes.contao.org/de/) - the official Contao Cms theme store.
+- [Theme Store](https://themes.contao.org/de/) - The official Contao CMS theme store.
 - [Premium Contao Themes](https://www.premium-contao-themes.com/)
 - [Rocksolid Themes](https://rocksolidthemes.com/de/contao/themes)
 - [Contao Themes Store](https://www.contao-themes-shop.de/)

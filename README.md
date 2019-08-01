@@ -12,12 +12,12 @@
 - [Theme Stores](#theme-stores)
 
 ## Official Ecosystem
-- [Contao Website](https://contao.org) - The offficial website with news, downloads, introductions, partner programm and many more.
-- [Documentation](https://docs.contao.org/) - The documentaion is the right place for developers.
+- [Contao Website](https://contao.org) - The official website with news, downloads, introductions, partner programm and many more.
+- [Documentation](https://docs.contao.org/) - The documentation is the right place for developers.
 - [Contao Association](https://association.contao.org) - The Contao Association is the official organization behind the Contao CMS.
 - [German Community Board](https://community.contao.org) - German located board to get help and discuss.
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
-- [Theme Store](https://themes.contao.org/de/) - the official Contao Cms theme store.
+- [Theme Store](https://themes.contao.org/de/) - the official Contao CMS theme store.
 
 
 ## Developer Resources

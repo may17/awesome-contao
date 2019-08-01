@@ -71,13 +71,13 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Contao Nordtag (powered by Contao Association)](http://contao-nordtag.de/) - Official regional event in Hamburg, Germany.
 - [Contao Agenturtag](https://www.contao-agenturtag.de) - Unofficial event for freelancers and web agencies organized by trilobit GmbH and Thomas Weitzel.
 - [Contao NRW Day](https://nrw-day.de/) - First unoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany.
-- [Contao Austria Day](http://www.contao-austriaday.at/) - Unofficial community driven event by the Austrian Contao community.
 
 ## Community Organizations & Groups
 - [Contao Community Alliance](https://c-c-a.org/) - Independent unofficial organization that supports the Contao CMS.
 - [Contao Pool](https://contao-pool.de) - Network of people located in Nordrhein Westphalen, Germany.
 - [Contao Bayern](https://www.contao-bayern.de/) - Network of people located in Munich, Germany.
 - [Contao Berlin](https://www.contao-berlin.de/) - Network of people located in Berlin, Germany.
+- [Contao Austria](https://www.contao-austria.at) - Network of people located in Austria.
 
 ## Theme Stores
 

@@ -77,6 +77,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Contao Community Alliance](https://c-c-a.org/) - Independent inofficial organization that supports the Contao CMS.
 - [Contao Pool](https://contao-pool.de) - network of people located in the german state Nordrhein Westphalen.
 - [Contao Bayern](https://www.contao-bayern.de/) - network of people located in Munich, Germany.
+- [Contao Berlin](https://www.contao-berlin.de/) - network of people located in Berlin, Germany.
 
 ## Theme Stores
 

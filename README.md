@@ -61,7 +61,7 @@
 Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.
 
 - [BackupDB](https://github.com/do-while/contao-BackupDB) - Backup of the Contao database, automatic backup, creation of website template for the install tool.
-- [MetaModels](https://now.metamodel.me) - Build your own data models with ease.
+- [MetaModels](https://now.metamodel.me) - Build your own data models with ease ([What can you do.](http://www.e-spin.de/metamodels-vortrag-contao-konferenz-2017.html), [Videos](https://metamodels.readthedocs.io/de/latest/cookbook/other-tutorials/videos.html), [Manual](https://metamodels.readthedocs.io)).
 - [Isotope](https://isotopeecommerce.org/en/) - eCommerce extension to build online shops.
 - [Notification Center](https://github.com/terminal42/contao-notification_center) - central and flexible way to send notifications via your own extensions.
 

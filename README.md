@@ -70,7 +70,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Contao Camp (powered by Contao Association)](https://contao.camp/) - Yearly repeating barcamp event driven by the event participants.
 - [Contao Nordtag (powered by Contao Association)](http://contao-nordtag.de/) - Official regional event in Hamburg Germany.
 - [Contao Agenturtag](https://www.contao-agenturtag.de) - Inofficial event for freelancers and agency organized by trilobit GmbH and Thomas Weitzel.
-- [Contao NRW Day](https://nrw-day.de/) - First inoffical community event in the Contao universe, located in Nordrhein Westphalen, Germany.
+- [Contao NRW Day](https://nrw-day.de/) - First inoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany.
 - [Contao Austria Day](http://www.contao-austriaday.at/) - Inofficial community driven event by the austrian Contao Community.
 
 ## Community Organizations & Groups

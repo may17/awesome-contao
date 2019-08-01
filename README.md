@@ -4,7 +4,7 @@
 ## Contents
 - [Official Ecosystem](#official-ecosystem)
 - [Developer Resources](#developer-resources)
-  - [How To`s](#how-tos)
+  - [How To's](#how-tos)
   - [Videos](#videos)
   - [Blogs](#blogs)
 - [Extensions](#extensions)
@@ -22,7 +22,7 @@
 
 ## Developer Resources
 
-### How To`s
+### How-To's
 - [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Contains a lot of helpful recipes for developers to resolve common issues.
 - [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
 - [Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
@@ -70,8 +70,8 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Contao Camp (powered by Contao Association)](https://contao.camp/) - Yearly repeating barcamp event driven by the event participants.
 - [Contao Nordtag (powered by Contao Association)](http://contao-nordtag.de/) - Official regional event in Hamburg Germany.
 - [Contao Agenturtag](https://www.contao-agenturtag.de) - Inofficial event for freelancers and agency organized by trilobit GmbH and Thomas Weitzel.
-- [Contao NRW Day](https://nrw-day.de/) - First inoffical community event in the Contao universe, located in Nordrhein Westphalen, Germany.
-- [Contao Austria Day](http://www.contao-austriaday.at/) - Inofficial community driven event by the austrian Contao Community.
+- [Contao NRW Day](https://nrw-day.de/) - First inoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany.
+- [Contao Austria Day](http://www.contao-austriaday.at/) - Inofficial community driven event by the austrian Contao community.
 
 ## Community Organizations & Groups
 - [Contao Community Alliance](https://c-c-a.org/) - Independent inofficial organization that supports the Contao CMS.

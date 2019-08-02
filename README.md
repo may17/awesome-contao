@@ -26,6 +26,9 @@
 - [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Contains a lot of helpful recipes for developers to resolve common issues.
 - [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
 - [Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
+- [Eigene Route erstellen](https://easysolutionsit.de/artikel/contao-4-eigene-route-erstellen.html) - How to create own routes.
+- [Konsolenbefehl erstellen](https://easysolutionsit.de/artikel/contao-4-konsolenbefehl-erstellen.html) - How to create own console commands.
+- [app_dev getting started](https://contao.ninja/contao-4-login-fuer-app_dev-php-setzen.html) - How to get the app_dev started.
 
 ### Videos
 

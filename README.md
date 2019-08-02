@@ -67,6 +67,14 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [MetaModels](https://now.metamodel.me) - Build your own data models with ease ([What can you do](http://www.e-spin.de/metamodels-vortrag-contao-konferenz-2017.html), [Videos](https://metamodels.readthedocs.io/de/latest/cookbook/other-tutorials/videos.html), [Manual](https://metamodels.readthedocs.io)).
 - [Isotope](https://isotopeecommerce.org/en/) - eCommerce extension to build online shops.
 - [Notification Center](https://github.com/terminal42/contao-notification_center) - Central and flexible way to send notifications via your own extensions.
+- [m17-sticky-backend-footer](https://github.com/may17/contao-m17StickyBEFooter) - sticks the save area (on the admin control panel) to the bottom of the browser.
+- [catalog-manager](https://catalog-manager.org/) - Creates backend moduls without writing own code.
+- [cookiebar](https://github.com/codefog/contao-cookiebar) - Display the information about cookies on your Contao website.
+- [rocksolid-custom-elements](https://github.com/madeyourday/contao-rocksolid-custom-elements) - Create own article elements with ease.
+- [rocksolid-frontend-helper](https://github.com/madeyourday/contao-rocksolid-frontend-helper) - Frontend Editing solution. 
+- [proper-filenames](https://github.com/numero2/contao-proper-filenames) - Replaces special characters in filenames right after upload.
+- [ajaxform](https://github.com/terminal42/contao-ajaxform) - Submit a form through ajax and display error or confirmation message.
+- [changelanguage](https://github.com/terminal42/contao-changelanguage) - Allows visitors to switch between different languages of your website.
 
 ## Events
 - [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.

@@ -15,24 +15,55 @@
 ## Official Ecosystem
 - [Contao Website](https://contao.org) - News, downloads, introductions, partner program and many more.
 - [Documentation](https://docs.contao.org/) - The documentation is the right place for developers.
+- [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Helpful recipes for developers to resolve common issues.
 - [Contao Association](https://association.contao.org) - Official organization behind the Contao CMS.
 - [German Community Board](https://community.contao.org/de/) - German located board to get help and discuss.
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
 - [Theme Store](https://themes.contao.org/de/) - Official Contao CMS theme store.
 
-### How-To's and Turorials
-#### German
+## How-To's and Turorials
+### German
 
-- [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Helpful recipes for developers to resolve common issues.
+#### Backend
 - [Hello World Bundle Tutorial](https://gist.github.com/joergmoldenhauer/90fa0c9c6af2c7a36bdbc2d039095142) - Step by Step Tutorial to create a contao bundle.
 - [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
 - [Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
 - [Eigene Route erstellen](https://easysolutionsit.de/artikel/contao-4-eigene-route-erstellen.html) - How to create own routes.
 - [Konsolenbefehl erstellen](https://easysolutionsit.de/artikel/contao-4-konsolenbefehl-erstellen.html) - How to create own console commands.
 - [app_dev getting started](https://contao.ninja/contao-4-login-fuer-app_dev-php-setzen.html) - How to get the app_dev started.
+- [Eigene Insert-Tags entwickeln](https://docs.contao.org/books/cookbook/de/Eigene-Inserttags.html)
+- [Cronjobs in Contao (Poor-Man-Cron)](https://docs.contao.org/books/cookbook/de/Cronjobs-in-Contao.html)
+- [Hooks in Contao](https://docs.contao.org/books/cookbook/de/Hooks-in-Contao.html)
+- [Inhaltselemente in deiner eigenen Erweiterung nutzen](https://docs.contao.org/books/cookbook/de/Inhaltselemente-verwenden.html)
+- [Models in Contao](https://docs.contao.org/books/cookbook/de/Models.html)
+- [Die Toggle-Funktion in eigenen Erweiterungen nutzen](https://docs.contao.org/books/cookbook/de/Toggle-Funktion-in-eigenen-Erweiterungen.html)
+- 
 
-#### English
-- [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Helpful recipes for developers to resolve common issues.
+#### Frontend
+- [Sprachabhängige Inhalte in Templates bereitstellen](https://contao-academy.de/blog/sprachabhaengige-inhalte-in-templates-bereitstellen)
+- [Mehrere Bildergalerien in einer Lightbox öffnen](https://contao-academy.de/blog/mehrere-bildergalerien-in-einer-lightbox-oeffnen)
+- [Formularfelder über GET-Parameter in der URL vorbelegen](https://contao-academy.de/blog/formularfelder-get-url-vorbelegen)
+- [Eine mobile Navigation in Contao](https://erdmann-freunde.de/logbuch/mobile-navigation-contao/)
+
+#### Administration
+- [Contao 4 installieren](https://contao-academy.de/blog/contao-4-installieren)
+- [Update Contao 3 auf Contao 4](https://contao-academy.de/blog/update-contao-3-auf-contao-4) - How to update from Contao 3 to 4
+- [URL Suffix in Contao 4 anpassen](https://contao-academy.de/blog/url-suffix-contao4-anpassen)
+- [Contao Backend Passwort vergessen](https://contao-academy.de/blog/contao-backend-passwort-vergessen)
+- [Contao 4.4 kopieren und umziehen](https://erdmann-freunde.de/logbuch/contao-4-4-umziehen/)
+
+### English
+
+#### Backend
+- [User authentication and access rights](https://docs.contao.org/books/cookbook/en/user-authentication-and-access-rights.html)
+- [Cron jobs in Contao (Poor-Man-Cron)](https://docs.contao.org/books/cookbook/en/user-authentication-and-access-rights.html)
+- [Using content elements in your own extension](https://docs.contao.org/books/cookbook/en/Using-Content-Elements.html)
+- [Using template variables](https://docs.contao.org/books/cookbook/en/Using-template-variables.html)
+- [User authentication and access rights](https://docs.contao.org/books/cookbook/en/user-authentication-and-access-rights.html)
+- [Folder structure explanation](https://docs.contao.org/books/cookbook/en/folder-structure.html)
+- [Customizing TinyMCE](https://docs.contao.org/books/cookbook/customizing-contao/customizing-tinymce.html)
+- [Adding custom fields](https://docs.contao.org/books/cookbook/customizing-contao/adding-custom-fields.html)
+- [Custom configurations](https://docs.contao.org/books/cookbook/customizing-contao/custom-configurations.html)
 
 ## Extensions
 Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.

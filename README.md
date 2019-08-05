@@ -7,7 +7,7 @@
 - [Extensions](#extensions)
 - [Events](#events)
 - [General Resources](#general-resources)
-  - [Community Organizations & Groups](#content-community-organizations--groups)
+  - [Community Organizations & Groups](#community-organizations--groups)
   - [Videos](#videos)
   - [Blogs](#blogs)
   - [Theme Stores](#theme-stores)

@@ -12,24 +12,24 @@
 - [Theme Stores](#theme-stores)
 
 ## Official Ecosystem
-- [Contao Website](https://contao.org) - The official website with news, downloads, introductions, partner program and many more.
+- [Contao Website](https://contao.org) - News, downloads, introductions, partner program and many more.
 - [Documentation](https://docs.contao.org/) - The documentation is the right place for developers.
-- [Contao Association](https://association.contao.org) - The Contao Association is the official organization behind the Contao CMS.
+- [Contao Association](https://association.contao.org) - Official organization behind the Contao CMS.
 - [German Community Board](https://community.contao.org/de/) - German located board to get help and discuss.
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
-- [Theme Store](https://themes.contao.org/de/) - The official Contao CMS theme store.
+- [Theme Store](https://themes.contao.org/de/) - Official Contao CMS theme store.
 
 
 ## Developer Resources
 
 ### How-To's
-- [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Contains a lot of helpful recipes for developers to resolve common issues.
-- [Hello World Bundle Tutorial](https://gist.github.com/joergmoldenhauer/90fa0c9c6af2c7a36bdbc2d039095142) - Step by Step Tutorial to create a contao bundle.
-- [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
-- [Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
-- [Eigene Route erstellen](https://easysolutionsit.de/artikel/contao-4-eigene-route-erstellen.html) - How to create own routes.
-- [Konsolenbefehl erstellen](https://easysolutionsit.de/artikel/contao-4-konsolenbefehl-erstellen.html) - How to create own console commands.
-- [app_dev getting started](https://contao.ninja/contao-4-login-fuer-app_dev-php-setzen.html) - How to get the app_dev started.
+- 🇩🇪🇬🇧[Contao Cookbook](https://docs.contao.org/books/cookbook/) - Helpful recipes for developers to resolve common issues.
+- 🇩🇪[Hello World Bundle Tutorial](https://gist.github.com/joergmoldenhauer/90fa0c9c6af2c7a36bdbc2d039095142) - Step by Step Tutorial to create a contao bundle.
+- 🇩🇪[Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
+- 🇩🇪[Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
+- 🇩🇪[Eigene Route erstellen](https://easysolutionsit.de/artikel/contao-4-eigene-route-erstellen.html) - How to create own routes.
+- 🇩🇪[Konsolenbefehl erstellen](https://easysolutionsit.de/artikel/contao-4-konsolenbefehl-erstellen.html) - How to create own console commands.
+- 🇩🇪[app_dev getting started](https://contao.ninja/contao-4-login-fuer-app_dev-php-setzen.html) - How to get the app_dev started.
 
 ### Videos
 
@@ -46,7 +46,7 @@
 
 ### Blogs
 - https://www.contao-fuer-webdesigner.de/blog.html
-- https://rocksolidthemes.com/de/contao/blog/
+- https://rocksolidthemes.com/de/contao/blog/ 
 - https://www.fast-end-media.de/blog/
 - https://kikmedia.de/de/blog.html
 - https://erdmann-freunde.de/logbuch-uebersicht/

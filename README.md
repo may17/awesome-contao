@@ -25,6 +25,7 @@
 ### German
 
 #### Backend
+- [Erweiterungen für Contao 4](https://www.youtube.com/watch?v=VzDYjEd7OyQ)(📹 Video)
 - [Hello World Bundle Tutorial](https://gist.github.com/joergmoldenhauer/90fa0c9c6af2c7a36bdbc2d039095142) - Step by Step Tutorial to create a contao bundle.
 - [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
 - [Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
@@ -42,6 +43,9 @@
 - [TinyMCE in Contao 4 anpassen](https://www.marcosimbuerger.ch/tech-blog/tinymce-in-contao-4-anpassen.html)
 - [Contao 4 Cache leeren](https://www.marcosimbuerger.ch/tech-blog/contao-4-cache-leeren.html)
 - [Logs schreiben in Contao 3 & 4 (Logging)](https://www.marcosimbuerger.ch/tech-blog/contao-logs-schreiben-logging.html)
+- [Hooks und Insert-Tags](https://www.youtube.com/watch?v=cak6EVADx1Y)(📹 Video)
+- [So klitzeklein ist der TinyMCE gar nicht...](https://www.youtube.com/watch?v=mjsT8J3-UDw)(📹 Video)
+- [Contao Formulare - Daten speichern und weiter verarbeiten](https://www.youtube.com/watch?v=JXycpBNJ2Fs)(📹 Video)
 
 #### Frontend
 - [Sprachabhängige Inhalte in Templates bereitstellen](https://contao-academy.de/blog/sprachabhaengige-inhalte-in-templates-bereitstellen)
@@ -53,6 +57,10 @@
 - [3 Wege CSS in Contao einzubinden](https://www.pergamon-interactive.de/blogreader/id-3-wege-css-in-contao-einzubinden.html)
 - [Contao 4 Error-Templates anpassen](https://www.marcosimbuerger.ch/tech-blog/contao-4-error-templates-anpassen.html)
 - [Contao 4 Wartungs-Template service_unavailable.html.twig anpassen](https://www.marcosimbuerger.ch/tech-blog/contao-4-wartungs-template-service_unavailable-html-twig-anpassen.html)
+- [Make it flexible: Responsives Contao mit vw, em und flexbox](https://www.youtube.com/watch?v=fOq3vlEeuaA&list=PLJlEgN85jW8FcZogc52-XTLc3GQjDLUMH&index=5&t=4s)(📹 Video)
+- [Performance Optimierung mit Contao 4](https://www.youtube.com/watch?v=wFeH9Ng3yxI)(📹 Video)
+- [Belle Vue - Modernes Javascript mit Contao und Vue.js](https://www.youtube.com/watch?v=VplxDhMQ2K0)(📹 Video)
+- [Contao Projekte mit Bootstrap 4](https://www.youtube.com/watch?v=BZP0WmejLI4)(📹 Video)
 
 #### Administration
 - [Contao 4 installieren](https://contao-academy.de/blog/contao-4-installieren)
@@ -63,6 +71,7 @@
 - [rel="canonical" in Contao verwenden - Vermeidung von Duplicate Content](https://brkwsky.de/rel-canonical-in-contao-verwenden)
 - [Contao 4 Installtool entsperren](https://www.marcosimbuerger.ch/tech-blog/contao-4-installtool-entsperren.html)
 - [Update Contao 3 auf Contao 4 mit Contao-Manager / Composer](https://www.marcosimbuerger.ch/tech-blog/update-contao-3-auf-contao-4-mit-composer.html)
+- [So funktioniert die Contao Suche](https://www.youtube.com/watch?v=_nveX3FhZm0)(📹 Video)
 
 ### English
 

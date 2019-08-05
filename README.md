@@ -37,7 +37,6 @@
 - [Inhaltselemente in deiner eigenen Erweiterung nutzen](https://docs.contao.org/books/cookbook/de/Inhaltselemente-verwenden.html)
 - [Models in Contao](https://docs.contao.org/books/cookbook/de/Models.html)
 - [Die Toggle-Funktion in eigenen Erweiterungen nutzen](https://docs.contao.org/books/cookbook/de/Toggle-Funktion-in-eigenen-Erweiterungen.html)
-- 
 
 #### Frontend
 - [Sprachabhängige Inhalte in Templates bereitstellen](https://contao-academy.de/blog/sprachabhaengige-inhalte-in-templates-bereitstellen)

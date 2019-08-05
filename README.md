@@ -3,13 +3,14 @@
 
 ## Contents
 - [Official Ecosystem](#official-ecosystem)
-- [Developer Resources](#developer-resources)
-  - [How To's](#how-tos)
-  - [Videos](#videos)
-  - [Blogs](#blogs)
+- [How-To's and Turorials](#how-Tos-and-turorials)
 - [Extensions](#extensions)
 - [Events](#events)
-- [Theme Stores](#theme-stores)
+- [General Resources](#general-resources)
+  - [Community Organizations & Groups](#content-community-organizations--groups)
+  - [Videos](#videos)
+  - [Blogs](#blogs)
+  - [Theme Stores](#theme-stores)
 
 ## Official Ecosystem
 - [Contao Website](https://contao.org) - News, downloads, introductions, partner program and many more.
@@ -19,17 +20,51 @@
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
 - [Theme Store](https://themes.contao.org/de/) - Official Contao CMS theme store.
 
+### How-To's and Turorials
+#### German
 
-## Developer Resources
+- [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Helpful recipes for developers to resolve common issues.
+- [Hello World Bundle Tutorial](https://gist.github.com/joergmoldenhauer/90fa0c9c6af2c7a36bdbc2d039095142) - Step by Step Tutorial to create a contao bundle.
+- [Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
+- [Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
+- [Eigene Route erstellen](https://easysolutionsit.de/artikel/contao-4-eigene-route-erstellen.html) - How to create own routes.
+- [Konsolenbefehl erstellen](https://easysolutionsit.de/artikel/contao-4-konsolenbefehl-erstellen.html) - How to create own console commands.
+- [app_dev getting started](https://contao.ninja/contao-4-login-fuer-app_dev-php-setzen.html) - How to get the app_dev started.
 
-### How-To's
-- 🇩🇪🇬🇧[Contao Cookbook](https://docs.contao.org/books/cookbook/) - Helpful recipes for developers to resolve common issues.
-- 🇩🇪[Hello World Bundle Tutorial](https://gist.github.com/joergmoldenhauer/90fa0c9c6af2c7a36bdbc2d039095142) - Step by Step Tutorial to create a contao bundle.
-- 🇩🇪[Contao 4.4 Dummy Bundle](https://github.com/Sioweb/Contao4DummyBundle) - Blueprint for Contao 4.4 bundles.
-- 🇩🇪[Contao 4 Bundle Tutorial](https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a) - Step by step bundle tutorial.
-- 🇩🇪[Eigene Route erstellen](https://easysolutionsit.de/artikel/contao-4-eigene-route-erstellen.html) - How to create own routes.
-- 🇩🇪[Konsolenbefehl erstellen](https://easysolutionsit.de/artikel/contao-4-konsolenbefehl-erstellen.html) - How to create own console commands.
-- 🇩🇪[app_dev getting started](https://contao.ninja/contao-4-login-fuer-app_dev-php-setzen.html) - How to get the app_dev started.
+#### English
+- [Contao Cookbook](https://docs.contao.org/books/cookbook/) - Helpful recipes for developers to resolve common issues.
+
+## Extensions
+Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.
+
+- [BackupDB](https://github.com/do-while/contao-BackupDB) - Backup of the Contao database, automatic backup, creation of website template for the Contao install tool.
+- [MetaModels](https://now.metamodel.me) - Build your own data models with ease ([What can you do](http://www.e-spin.de/metamodels-vortrag-contao-konferenz-2017.html), [Videos](https://metamodels.readthedocs.io/de/latest/cookbook/other-tutorials/videos.html), [Manual](https://metamodels.readthedocs.io)).
+- [Isotope](https://isotopeecommerce.org/en/) - eCommerce extension to build online shops.
+- [Notification Center](https://github.com/terminal42/contao-notification_center) - Central and flexible way to send notifications via your own extensions.
+- [m17-sticky-backend-footer](https://github.com/may17/contao-m17StickyBEFooter) - sticks the save area (on the admin control panel) to the bottom of the browser.
+- [catalog-manager](https://catalog-manager.org/) - Creates backend moduls without writing own code.
+- [cookiebar](https://github.com/codefog/contao-cookiebar) - Display the information about cookies on your Contao website.
+- [rocksolid-custom-elements](https://github.com/madeyourday/contao-rocksolid-custom-elements) - Create own article elements with ease.
+- [rocksolid-frontend-helper](https://github.com/madeyourday/contao-rocksolid-frontend-helper) - Frontend Editing solution. 
+- [proper-filenames](https://github.com/numero2/contao-proper-filenames) - Replaces special characters in filenames right after upload.
+- [ajaxform](https://github.com/terminal42/contao-ajaxform) - Submit a form through ajax and display error or confirmation message.
+- [changelanguage](https://github.com/terminal42/contao-changelanguage) - Allows visitors to switch between different languages of your website.
+
+## Events
+- [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.
+- [Contao Camp (powered by Contao Association)](https://contao.camp/) - Yearly repeating barcamp event driven by the event participants.
+- [Contao Nordtag (powered by Contao Association)](http://contao-nordtag.de/) - Official regional event in Hamburg, Germany.
+- [Contao Agenturtag](https://www.contao-agenturtag.de) - Unofficial event for freelancers and web agencies organized by trilobit GmbH and Thomas Weitzel.
+- [Contao NRW Day](https://nrw-day.de/) - First unoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany.
+
+## General Resources
+
+### Community Organizations & Groups
+- [Contao Community Alliance](https://c-c-a.org/) - Independent unofficial organization that supports the Contao CMS.
+- [Contao Pool](https://contao-pool.de) - Network of people located in Nordrhein Westphalen, Germany.
+- [Contao Bayern](https://www.contao-bayern.de/) - Network of people located in Munich, Germany.
+- [Contao Berlin](https://www.contao-berlin.de/) - Network of people located in Berlin, Germany.
+- [Contao Austria](https://www.contao-austria.at) - Network of people located in Austria.
 
 ### Videos
 
@@ -61,37 +96,7 @@
 - https://blog.calm-n-easy.de/archiv/tag/contao
 - https://brkwsky.de/blog.html
 
-## Extensions
-Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.
-
-- [BackupDB](https://github.com/do-while/contao-BackupDB) - Backup of the Contao database, automatic backup, creation of website template for the Contao install tool.
-- [MetaModels](https://now.metamodel.me) - Build your own data models with ease ([What can you do](http://www.e-spin.de/metamodels-vortrag-contao-konferenz-2017.html), [Videos](https://metamodels.readthedocs.io/de/latest/cookbook/other-tutorials/videos.html), [Manual](https://metamodels.readthedocs.io)).
-- [Isotope](https://isotopeecommerce.org/en/) - eCommerce extension to build online shops.
-- [Notification Center](https://github.com/terminal42/contao-notification_center) - Central and flexible way to send notifications via your own extensions.
-- [m17-sticky-backend-footer](https://github.com/may17/contao-m17StickyBEFooter) - sticks the save area (on the admin control panel) to the bottom of the browser.
-- [catalog-manager](https://catalog-manager.org/) - Creates backend moduls without writing own code.
-- [cookiebar](https://github.com/codefog/contao-cookiebar) - Display the information about cookies on your Contao website.
-- [rocksolid-custom-elements](https://github.com/madeyourday/contao-rocksolid-custom-elements) - Create own article elements with ease.
-- [rocksolid-frontend-helper](https://github.com/madeyourday/contao-rocksolid-frontend-helper) - Frontend Editing solution. 
-- [proper-filenames](https://github.com/numero2/contao-proper-filenames) - Replaces special characters in filenames right after upload.
-- [ajaxform](https://github.com/terminal42/contao-ajaxform) - Submit a form through ajax and display error or confirmation message.
-- [changelanguage](https://github.com/terminal42/contao-changelanguage) - Allows visitors to switch between different languages of your website.
-
-## Events
-- [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.
-- [Contao Camp (powered by Contao Association)](https://contao.camp/) - Yearly repeating barcamp event driven by the event participants.
-- [Contao Nordtag (powered by Contao Association)](http://contao-nordtag.de/) - Official regional event in Hamburg, Germany.
-- [Contao Agenturtag](https://www.contao-agenturtag.de) - Unofficial event for freelancers and web agencies organized by trilobit GmbH and Thomas Weitzel.
-- [Contao NRW Day](https://nrw-day.de/) - First unoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany.
-
-## Community Organizations & Groups
-- [Contao Community Alliance](https://c-c-a.org/) - Independent unofficial organization that supports the Contao CMS.
-- [Contao Pool](https://contao-pool.de) - Network of people located in Nordrhein Westphalen, Germany.
-- [Contao Bayern](https://www.contao-bayern.de/) - Network of people located in Munich, Germany.
-- [Contao Berlin](https://www.contao-berlin.de/) - Network of people located in Berlin, Germany.
-- [Contao Austria](https://www.contao-austria.at) - Network of people located in Austria.
-
-## Theme Stores
+### Theme Stores
 
 - [Theme Store](https://themes.contao.org/de/) - The official Contao CMS theme store.
 - [Premium Contao Themes](https://www.premium-contao-themes.com/)

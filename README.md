@@ -37,12 +37,22 @@
 - [Inhaltselemente in deiner eigenen Erweiterung nutzen](https://docs.contao.org/books/cookbook/de/Inhaltselemente-verwenden.html)
 - [Models in Contao](https://docs.contao.org/books/cookbook/de/Models.html)
 - [Die Toggle-Funktion in eigenen Erweiterungen nutzen](https://docs.contao.org/books/cookbook/de/Toggle-Funktion-in-eigenen-Erweiterungen.html)
+- [Cronjobs unter Contao 4](https://brkwsky.de/cronjobs-unter-contao-4)
+- [Composer Memory Exception (PHP Fatal error: Allowed memory size...)](https://www.marcosimbuerger.ch/tech-blog/composer-memory-exception-php-fatal-error-allowed-memory-size.html)
+- [TinyMCE in Contao 4 anpassen](https://www.marcosimbuerger.ch/tech-blog/tinymce-in-contao-4-anpassen.html)
+- [Contao 4 Cache leeren](https://www.marcosimbuerger.ch/tech-blog/contao-4-cache-leeren.html)
+- [Logs schreiben in Contao 3 & 4 (Logging)](https://www.marcosimbuerger.ch/tech-blog/contao-logs-schreiben-logging.html)
 
 #### Frontend
 - [Sprachabhängige Inhalte in Templates bereitstellen](https://contao-academy.de/blog/sprachabhaengige-inhalte-in-templates-bereitstellen)
 - [Mehrere Bildergalerien in einer Lightbox öffnen](https://contao-academy.de/blog/mehrere-bildergalerien-in-einer-lightbox-oeffnen)
 - [Formularfelder über GET-Parameter in der URL vorbelegen](https://contao-academy.de/blog/formularfelder-get-url-vorbelegen)
 - [Eine mobile Navigation in Contao](https://erdmann-freunde.de/logbuch/mobile-navigation-contao/)
+- [Bootstrap mit Contao nutzen - Teil 1](https://kikmedia.de/de/blog/beitrag/bootstrap-mit-contao-nutzen.html)
+- [Bootstrap mit Contao nutzen - Teil 2](https://kikmedia.de/de/blog/beitrag/bootstrap-mit-contao-nutzen-teil-2.html)
+- [3 Wege CSS in Contao einzubinden](https://www.pergamon-interactive.de/blogreader/id-3-wege-css-in-contao-einzubinden.html)
+- [Contao 4 Error-Templates anpassen](https://www.marcosimbuerger.ch/tech-blog/contao-4-error-templates-anpassen.html)
+- [Contao 4 Wartungs-Template service_unavailable.html.twig anpassen](https://www.marcosimbuerger.ch/tech-blog/contao-4-wartungs-template-service_unavailable-html-twig-anpassen.html)
 
 #### Administration
 - [Contao 4 installieren](https://contao-academy.de/blog/contao-4-installieren)
@@ -50,6 +60,9 @@
 - [URL Suffix in Contao 4 anpassen](https://contao-academy.de/blog/url-suffix-contao4-anpassen)
 - [Contao Backend Passwort vergessen](https://contao-academy.de/blog/contao-backend-passwort-vergessen)
 - [Contao 4.4 kopieren und umziehen](https://erdmann-freunde.de/logbuch/contao-4-4-umziehen/)
+- [rel="canonical" in Contao verwenden - Vermeidung von Duplicate Content](https://brkwsky.de/rel-canonical-in-contao-verwenden)
+- [Contao 4 Installtool entsperren](https://www.marcosimbuerger.ch/tech-blog/contao-4-installtool-entsperren.html)
+- [Update Contao 3 auf Contao 4 mit Contao-Manager / Composer](https://www.marcosimbuerger.ch/tech-blog/update-contao-3-auf-contao-4-mit-composer.html)
 
 ### English
 

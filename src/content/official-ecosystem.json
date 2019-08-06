@@ -1,0 +1,41 @@
+{
+    "title": "Official Ecosystem",
+    "hlLevel": "##",
+    "entries": [
+        {
+            "title": "Contao Website",
+            "link": "https://contao.org",
+            "description": "News, downloads, introductions, partner program and many more."
+        },
+        {
+            "title": "Documentation",
+            "link": "https://docs.contao.org/",
+            "description": "The documentation is the right place for developers."
+        },
+        {
+            "title": "Contao Cookbook",
+            "link": "https://docs.contao.org/books/cookbook/",
+            "description": "Helpful recipes for developers to resolve common issues."
+        },
+        {
+            "title": "Contao Association",
+            "link": "https://association.contao.org",
+            "description": "Official organization behind the Contao CMS."
+        },
+        {
+            "title": "German Community Board",
+            "link": "https://community.contao.org/de/",
+            "description": "German located board to get help and discuss."
+        },
+        {
+            "title": "International Community Board",
+            "link": "https://community.contao.org/en/",
+            "description": "English speech located board to get help and discuss."
+        },
+        {
+            "title": "Theme Store",
+            "link": "https://themes.contao.org/de/",
+            "description": "https://themes.contao.org/de/) - Official Contao CMS theme store."
+        }
+    ]
+}

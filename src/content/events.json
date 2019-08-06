@@ -1,0 +1,31 @@
+{
+    "title": "Events",
+    "hlLevel": "##",
+    "entries": [
+        {
+            "title": "Contao Conference (powered by Contao Association",
+            "link": "https://www.contao-konferenz.de/",
+            "description": "Yearly repeating main event."
+        },
+        {
+            "title": "Contao Camp (powered by Contao Association)",
+            "link": "https://contao.camp/",
+            "description": "Yearly repeating barcamp event driven by the event participants."
+        },
+        {
+            "title": "Contao Nordtag (powered by Contao Association)",
+            "link": "http://contao-nordtag.de/",
+            "description": "Official regional event in Hamburg, Germany."
+        },
+        {
+            "title": "Contao Agenturtag",
+            "link": "https://www.contao-agenturtag.de",
+            "description": "Unofficial event for freelancers and web agencies organized by trilobit GmbH and Thomas Weitzel."
+        },
+        {
+            "title": "Contao NRW Day",
+            "link": "https://nrw-day.de/",
+            "description": "First unoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany."
+        }
+    ]
+}

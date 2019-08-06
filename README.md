@@ -1,4 +1,4 @@
-# awesome-contao [![Awesome](awesomehttps://.re/badge.svg)](https://awesome.re)
+#awesome-contao [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A helpful list of awesome things related to the Contao Open Source CMS
 ## Table of contents
 - [Official Ecosystem](#official-ecosystem)

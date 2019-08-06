@@ -1,0 +1,105 @@
+{
+    "title": "Backend",
+    "hlLevel": "####",
+    "tocIndent": 2,
+    "entries": [
+        {
+            "title": "Erweiterungen für Contao 4",
+            "link": "https://www.youtube.com/watch?v=VzDYjEd7OyQ",
+            "isVideo": true
+        },
+        {
+            "title": "Hello World Bundle Tutorial",
+            "link": "https://gist.github.com/joergmoldenhauer/90fa0c9c6af2c7a36bdbc2d039095142",
+            "description": "Step by Step Tutorial to create a contao bundle."
+        },
+        {
+            "title": "Contao 4.4 Dummy Bundle",
+            "link": "https://github.com/Sioweb/Contao4DummyBundle",
+            "description": "Blueprint for Contao 4.4 bundles."
+        },
+        {
+            "title": "Contao 4 Bundle Tutorial",
+            "link": "https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a",
+            "description": "How to create own routes."
+        },
+        {
+            "title": "Eigene Route erstellen",
+            "link": "https://easysolutionsit.de/artikel/contao-4-eigene-route-erstellen.html",
+            "description": "How to create own routes."
+        },
+        {
+            "title": "Konsolenbefehl erstellen",
+            "link": "https://easysolutionsit.de/artikel/contao-4-konsolenbefehl-erstellen.html",
+            "description": "How to create own console commands."
+        },
+        {
+            "title": "app_dev getting started",
+            "link": "https://contao.ninja/contao-4-login-fuer-app_dev-php-setzen.html",
+            "description": "How to get the app_dev started."
+        },
+        {
+            "title": "Eigene Insert-Tags entwickeln",
+            "link": "https://docs.contao.org/books/cookbook/de/Eigene-Inserttags.html"
+        },
+        {
+            "title": "Eigene Insert-Tags entwickeln",
+            "link": "https://docs.contao.org/books/cookbook/de/Eigene-Inserttags.html"
+        },
+        {
+            "title": "Cronjobs in Contao (Poor-Man-Cron",
+            "link": "https://docs.contao.org/books/cookbook/de/Cronjobs-in-Contao.html"
+        },
+        {
+            "title": "Hooks in Contao",
+            "link": "https://docs.contao.org/books/cookbook/de/Hooks-in-Contao.html"
+        },
+        {
+            "title": "Inhaltselemente in deiner eigenen Erweiterung nutzen",
+            "link": "https://docs.contao.org/books/cookbook/de/Inhaltselemente-verwenden.html"
+        },
+        {
+            "title": "Models in Contao",
+            "link": "https://docs.contao.org/books/cookbook/de/Models.html"
+        },
+        {
+            "title": "Die Toggle-Funktion in eigenen Erweiterungen nutzen",
+            "link": "https://docs.contao.org/books/cookbook/de/Toggle-Funktion-in-eigenen-Erweiterungen.html"
+        },
+        {
+            "title": "Cronjobs unter Contao 4",
+            "link": "https://brkwsky.de/cronjobs-unter-contao-4"
+        },
+        {
+            "title": "Composer Memory Exception (PHP Fatal error: Allowed memory size...",
+            "link": "https://www.marcosimbuerger.ch/tech-blog/composer-memory-exception-php-fatal-error-allowed-memory-size.html"
+        },
+        {
+            "title": "TinyMCE in Contao 4 anpassen",
+            "link": "https://www.marcosimbuerger.ch/tech-blog/tinymce-in-contao-4-anpassen.html"
+        },
+        {
+            "title": "Contao 4 Cache leeren",
+            "link": "https://www.marcosimbuerger.ch/tech-blog/contao-4-cache-leeren.html"
+        },
+        {
+            "title": "Logs schreiben in Contao 3 & 4 (Logging)",
+            "link": "https://www.marcosimbuerger.ch/tech-blog/contao-logs-schreiben-logging.html"
+        },
+        {
+            "title": "Hooks und Insert-Tags",
+            "link": "https://www.youtube.com/watch?v=cak6EVADx1Y",
+            "isVideo": true
+        },
+        {
+            "title": "So klitzeklein ist der TinyMCE gar nicht...",
+            "link": "https://www.youtube.com/watch?v=mjsT8J3-UDw",
+            "isVideo": true
+        },
+        {
+            "title": "Contao Formulare - Daten speichern und weiter verarbeiten",
+            "link": "https://www.youtube.com/watch?v=JXycpBNJ2Fs",
+            "isVideo": true
+        }
+    ]
+}

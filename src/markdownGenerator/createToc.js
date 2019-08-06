@@ -14,14 +14,17 @@ module.exports = async (contents) => {
             })
             return {
                 title,
-                link
+                link,
+                indent: fileData.tocIndent || 0
             }
         }
     })
     .filter(item => item !== undefined)
 
-    njk.configure(__dirname + '/templates')
-    
+    njk.configure(__dirname + '/templates', {
+        trimBlocks: true
+    })
+
     const markdown = njk.render('toc.md', {
         entries: tocData
     })

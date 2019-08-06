@@ -1,2 +1,2 @@
 ## Table of contents
-{% include 'list.md' %}
+{% include 'toc-list.md' %}

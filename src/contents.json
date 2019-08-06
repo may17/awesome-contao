@@ -3,6 +3,8 @@
         "/intro.json",
         "/official-ecosystem.json",
         "/how-tos.json",
+        "/how-tos-german.json",
+        "/how-tos-german-backend.json",
         "/events.json"
     ]
 } 

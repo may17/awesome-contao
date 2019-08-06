@@ -1,16 +1,21 @@
 const generateMarkdownFile = require('./generateMarkdownFile')
-const fs = require('fs').promises
+const concatFiles = require('./concatFiles')
+const clearTmp = require('./clearTmp')
+const createToc = require('./createToc')
 
 async function generate () {
+    await clearTmp()
+    
     const initialData = await require('../index.json')
+    const categorys = initialData.categorys
 
-    await Promise.all(initialData.categorys.map(async (itemPath, i) => {
+    await Promise.all(categorys.map(async (itemPath, i) => {
         await generateMarkdownFile(itemPath, i)
     }))
 
-    const concatMarkdownFiles = require('child_process').execSync('cat ' + __dirname + '/tmp/*.md').toString('UTF-8')
-    await fs.writeFile(`../README.md`, concatMarkdownFiles);
-    console.log('Done')
+    await createToc(categorys)
+
+    await concatFiles()
 }
 
 generate()

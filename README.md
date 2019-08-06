@@ -1,5 +1,9 @@
-# awesome-contao
+# awesome-contao [![Awesome](awesomehttps://.re/badge.svg)](https://awesome.re)
 > A helpful list of awesome things related to the Contao Open Source CMS
+## Table of contents
+- [Official Ecosystem](#official-ecosystem)
+- [How-To&#39;s and Turorials](#how-tos-and-turorials)
+- [Events](#events)
 ## Official Ecosystem
 - [Contao Website](https://contao.org) - News, downloads, introductions, partner program and many more.
 - [Documentation](https://docs.contao.org/) - The documentation is the right place for developers.
@@ -9,6 +13,7 @@
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
 - [Theme Store](https://themes.contao.org/de/) - https://themes.contao.org/de/) - Official Contao CMS theme store.
 
+## How-To&#39;s and Turorials
 ## Events
 - [Contao Conference (powered by Contao Association](https://www.contao-konferenz.de/) - Yearly repeating main event.
 - [Contao Camp (powered by Contao Association)](https://contao.camp/) - Yearly repeating barcamp event driven by the event participants.

@@ -2,6 +2,7 @@
     "categorys": [
         "/intro.json",
         "/official-ecosystem.json",
+        "/how-tos.json",
         "/events.json"
     ]
 } 

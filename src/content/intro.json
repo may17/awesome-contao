@@ -1,5 +1,6 @@
 {
-    "title": "awesome-contao",
+    "tocNoIndex": true,
+    "title": "awesome-contao [![Awesome](awesomehttps://.re/badge.svg)](https://awesome.re)",
     "hlLevel": "#",
     "description": "A helpful list of awesome things related to the Contao Open Source CMS"
 }

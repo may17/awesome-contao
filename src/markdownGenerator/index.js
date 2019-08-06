@@ -6,14 +6,14 @@ const createToc = require('./createToc')
 async function generate () {
     await clearTmp()
     
-    const initialData = await require('../index.json')
-    const categorys = initialData.categorys
+    const initialData = await require('../contents.json')
+    const contents = initialData.contents
 
-    await Promise.all(categorys.map(async (itemPath, i) => {
+    await Promise.all(contents.map(async (itemPath, i) => {
         await generateMarkdownFile(itemPath, i)
     }))
 
-    await createToc(categorys)
+    await createToc(contents)
 
     await concatFiles()
 }

@@ -2,8 +2,8 @@ const fs = require('fs').promises
 const njk = require('nunjucks')
 var slugify = require('slugify')
 
-module.exports = async (categorys) => {
-    const tocData = categorys.map(fileName => {
+module.exports = async (contents) => {
+    const tocData = contents.map(fileName => {
         const fileData = require(`../content/${fileName}`)
 
         if (!(fileData.tocNoIndex)) {
@@ -20,7 +20,8 @@ module.exports = async (categorys) => {
     })
     .filter(item => item !== undefined)
 
-    njk.configure(__dirname)
+    njk.configure(__dirname + '/templates')
+    
     const markdown = njk.render('toc.md', {
         entries: tocData
     })

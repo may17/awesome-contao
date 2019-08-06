@@ -16,7 +16,7 @@ module.exports = async (fileName, i) => {
 
     const template = fileData.template || 'template.md'
     
-    njk.configure(__dirname)
+    njk.configure(__dirname + '/templates')
     const markdown = njk.render(template, data)
     
     const writeMarkdownFile = await fs.writeFile(`${__dirname}/tmp/${currentIndex}.md`, markdown);

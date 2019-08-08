@@ -101,6 +101,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [proper-filenames](https://github.com/numero2/contao-proper-filenames) - Replaces special characters in filenames right after upload.
 - [ajaxform](https://github.com/terminal42/contao-ajaxform) - Submit a form through ajax and display error or confirmation message.
 - [changelanguage](https://github.com/terminal42/contao-changelanguage) - Allows visitors to switch between different languages of your website.
+- [estao®](https://www.estao.de) - Real estate extension for estate agents and landlords.
 
 ## Events
 - [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.

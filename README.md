@@ -104,7 +104,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 ## Commercial extensions
 
 - [catalog-manager](https://catalog-manager.org/) - Creates backend moduls without writing own code.
-- [estao®](https://www.estao.de) - Real estate extension for estate agents and landlords (Open immo import & ImmobilienScout24 export)
+- [estao®](https://www.estao.de) - Real estate extension for estate agents and landlords (Incl. open immo import & ImmobilienScout24 export)
 
 ## Events
 - [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.

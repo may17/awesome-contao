@@ -21,7 +21,7 @@
 - [International Community Board](https://community.contao.org/en/) - English speech located board to get help and discuss.
 - [Theme Store](https://themes.contao.org/de/) - Official Contao CMS theme store.
 
-## How-To's and Turorials
+## How-To's and Tutorials
 ### German
 
 #### Backend
@@ -87,7 +87,7 @@
 - [Custom configurations](https://docs.contao.org/books/cookbook/customizing-contao/custom-configurations.html)
 
 ## Extensions
-Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions.
+Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions, or easily browse the top lists like "Most downloaded" or "Last updated" on https://contao.store to find a suitable extension.
 
 - [BackupDB](https://github.com/do-while/contao-BackupDB) - Backup of the Contao database, automatic backup, creation of website template for the Contao install tool.
 - [MetaModels](https://now.metamodel.me) - Build your own data models with ease ([What can you do](http://www.e-spin.de/metamodels-vortrag-contao-konferenz-2017.html), [Videos](https://metamodels.readthedocs.io/de/latest/cookbook/other-tutorials/videos.html), [Manual](https://metamodels.readthedocs.io)).

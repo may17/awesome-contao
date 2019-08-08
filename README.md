@@ -100,13 +100,13 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [proper-filenames](https://github.com/numero2/contao-proper-filenames) - Replaces special characters in filenames right after upload.
 - [ajaxform](https://github.com/terminal42/contao-ajaxform) - Submit a form through ajax and display error or confirmation message.
 - [changelanguage](https://github.com/terminal42/contao-changelanguage) - Allows visitors to switch between different languages of your website.
-- [maklermodul-bundle](https://www.maklermodul.de) - Real estate bundle for contao cms with open immo import
-- [mobilede-bundle](https://pdir.de/mobile-de-integration-fuer-contao-cms.html) - Display Mobile.de ads on your website
 
 ## Commercial extensions
 
 - [catalog-manager](https://catalog-manager.org/) - Creates backend moduls without writing own code.
 - [estao®](https://www.estao.de) - Real estate extension for estate agents and landlords (Incl. open immo import & ImmobilienScout24 export)
+- [maklermodul-bundle](https://www.maklermodul.de) - Real estate bundle for contao cms with open immo import
+- [mobilede-bundle](https://pdir.de/mobile-de-integration-fuer-contao-cms.html) - Display Mobile.de ads on your website
 
 ## Events
 - [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.

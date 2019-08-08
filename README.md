@@ -155,7 +155,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Rocksolid Themes](https://rocksolidthemes.com/de/contao/themes)
 - [Contao Themes Store](https://www.contao-themes-shop.de/)
 - [Contao best themes](http://contaobestthemes.silbersaiten.de/35-contao-themes)
-- [Contao Theme](https://www.contao-theme.de/)
+- [contao-themes.net](https://contao-themes.net/) - Free and payed themes
 - [Erdmann und Freunde](https://erdmann-freunde.de/produkte/contao-themes/)
 
 ## License

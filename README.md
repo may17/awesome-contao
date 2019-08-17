@@ -122,6 +122,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Contao Pool](https://contao-pool.de) - Network of people located in Nordrhein Westphalen, Germany.
 - [Contao Bayern](https://www.contao-bayern.de/) - Network of people located in Munich, Germany.
 - [Contao Berlin](https://www.contao-berlin.de/) - Network of people located in Berlin, Germany.
+- [Contao Dresden](https://www.gondao.de/) - Network of people located in Dresden, Germany.
 - [Contao Austria](https://www.contao-austria.at) - Network of people located in Austria.
 
 ### Videos

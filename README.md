@@ -100,6 +100,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [proper-filenames](https://github.com/numero2/contao-proper-filenames) - Replaces special characters in filenames right after upload.
 - [ajaxform](https://github.com/terminal42/contao-ajaxform) - Submit a form through ajax and display error or confirmation message.
 - [changelanguage](https://github.com/terminal42/contao-changelanguage) - Allows visitors to switch between different languages of your website.
+- [contao-om-backend](https://github.com/OMOSde/contao-om-backend) - Adds some useful backend functions for admins and daily work.
 
 ## Commercial extensions
 

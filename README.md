@@ -155,6 +155,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - https://www.premium-contao-themes.com/news.html
 - https://blog.calm-n-easy.de/archiv/tag/contao
 - https://brkwsky.de/blog.html
+- https://www.codesache.de/gipfelbuch-uebersicht
 
 ### Theme Stores
 

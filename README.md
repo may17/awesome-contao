@@ -113,7 +113,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Contao Conference (powered by Contao Association)](https://www.contao-konferenz.de/) - Yearly repeating main event.
 - [Contao Camp (powered by Contao Association)](https://contao.camp/) - Yearly repeating barcamp event driven by the event participants.
 - [Contao Nordtag (powered by Contao Association)](http://contao-nordtag.de/) - Official regional event in Hamburg, Germany.
-- [Contao Agenturtag](https://www.contao-agenturtag.de) - Unofficial event for freelancers and web agencies organized by trilobit GmbH and Thomas Weitzel.
+- [Contao Agenturtag](https://www.contao-agenturtag.de) - Unofficial event for freelancers and web agencies organized by trilobit GmbH and weitzeldesign.
 - [Contao NRW Day](https://nrw-day.de/) - First unoffical community event in the Contao universe, located in North Rhine-Westphalia, Germany.
 
 ## General Resources

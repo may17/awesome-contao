@@ -85,6 +85,8 @@
 - [Customizing TinyMCE](https://docs.contao.org/books/cookbook/customizing-contao/customizing-tinymce.html)
 - [Adding custom fields](https://docs.contao.org/books/cookbook/customizing-contao/adding-custom-fields.html)
 - [Custom configurations](https://docs.contao.org/books/cookbook/customizing-contao/custom-configurations.html)
+#### Administration
+- [Run Contao 4 Inside a Docker Container](https://medium.com/@raphaelstaebler/run-contao-4-inside-a-docker-container-96422278ea02)
 
 ## Extensions
 Contains outstanding and popular extensions. Please use https://extensions.contao.org to search for extensions, or easily browse the top lists like "Most downloaded" or "Last updated" on https://contao.store to find a suitable extension.

@@ -127,7 +127,10 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Contao Bayern](https://www.contao-bayern.de/) - Network of people located in Munich, Germany.
 - [Contao Berlin](https://www.contao-berlin.de/) - Network of people located in Berlin, Germany.
 - [Contao Dresden](https://www.gondao.de/) - Network of people located in Dresden, Germany.
+- [Contao Stuttgart](https://www.contao-stammtisch-stuttgart.de/) - Network of people located in Stuttgart, Germany.
+- [Contao Frankfurt/Rhein-Main](https://www.contao-stammtisch-frankfurt.de/) - Network of people located in Frankfurt/Rhein-Main, Germany.
 - [Contao Austria](https://www.contao-austria.at) - Network of people located in Austria.
+- [Contao Switzerland](https://contao-treff.ch/) - Network of people located in Switzerland.
 
 ### Videos
 

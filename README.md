@@ -3,7 +3,7 @@
 
 ## Contents
 - [Official Ecosystem](#official-ecosystem)
-- [How-To's and Turorials](#how-Tos-and-turorials)
+- [How-To's and Tutorials](#how-Tos-and-tutorials)
 - [Extensions](#extensions)
 - [Events](#events)
 - [General Resources](#general-resources)

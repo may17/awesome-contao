@@ -151,7 +151,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - https://www.fast-end-media.de/blog/
 - https://kikmedia.de/de/blog.html
 - https://erdmann-freunde.de/logbuch-uebersicht/
-- https://contao-academy.de/contao-blog/cat/Contao+3
+- https://contao-academy.de/contao-blog
 - https://easysolutionsit.de/blog.html
 - https://contao.ninja/
 - https://kirsten-roschanski.de/blog

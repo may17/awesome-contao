@@ -97,6 +97,7 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [Notification Center](https://github.com/terminal42/contao-notification_center) - Central and flexible way to send notifications via your own extensions.
 - [m17-sticky-backend-footer](https://github.com/may17/contao-m17StickyBEFooter) - sticks the save area (on the admin control panel) to the bottom of the browser.
 - [cookiebar](https://github.com/codefog/contao-cookiebar) - Display the information about cookies on your Contao website.
+- [Contao Cookiebar](https://github.com/oveleon/contao-cookiebar) - Allows a visitor to define cookie & privacy settings for the website.
 - [rocksolid-custom-elements](https://github.com/madeyourday/contao-rocksolid-custom-elements) - Create own article elements with ease.
 - [rocksolid-frontend-helper](https://github.com/madeyourday/contao-rocksolid-frontend-helper) - Frontend Editing solution. 
 - [proper-filenames](https://github.com/numero2/contao-proper-filenames) - Replaces special characters in filenames right after upload.
@@ -104,6 +105,8 @@ Contains outstanding and popular extensions. Please use https://extensions.conta
 - [changelanguage](https://github.com/terminal42/contao-changelanguage) - Allows visitors to switch between different languages of your website.
 - [contao-om-backend](https://github.com/OMOSde/contao-om-backend) - Adds some useful backend functions for admins and daily work.
 - [contao-content-api-bundle](https://github.com/DieSchittigs/contao-content-api-bundle) - Use Contao as Administration tool only and create your frontend with React, Vue or whatever js-framework you like.
+- [StyleManager](https://github.com/oveleon/contao-component-style-manager) - Allows to prepare readable CSS classes for all Contao components to make the work of editors easier.
+- [Contao EstateManager](https://github.com/contao-estatemanager/core) - A modern, open source and extensible solution to combine real estate and marketing tools in Contao.
 
 ## Commercial extensions
 
